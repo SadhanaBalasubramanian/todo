@@ -1,0 +1,28 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "taskName": "Hello World",
+      "taskStatus": "In Progress",
+      "createdDate": "16/05/2022"
+    },
+    {
+      "id": "2",
+      "taskName": "Todo",
+      "taskStatus": "Done",
+      "createdDate": "11/05/2022"
+    },
+    {
+      "id": "3",
+      "taskName": "Expense Tracker",
+      "taskStatus": "Not Started",
+      "createdDate": "10/05/2022"
+    },
+    {
+      "id": "4",
+      "taskName": "Photo Gallery",
+      "taskStatus": "In Progress",
+      "createdDate": "13/05/2022"
+    }
+  ]
+}

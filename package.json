@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo task management",
+  "main": "index.js",
+  "scripts": {
+    "server":"json-server --watch db.json --port 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadhanaBalasubramanian/todo.git"
+  },
+  "author": "sadhana balasubramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadhanaBalasubramanian/todo/issues"
+  },
+  "homepage": "https://github.com/SadhanaBalasubramanian/todo#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
